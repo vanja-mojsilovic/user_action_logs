@@ -9,7 +9,7 @@
 *.zip
 *.exe
 *.pdf
-*.txt
+
 *.ini
 *.dat
 *.regtrans-ms
