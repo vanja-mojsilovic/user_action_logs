@@ -1,0 +1,29 @@
+**/.env
+**/target/
+.idea/
+# Ignore system and personal files
+*.log
+*.tmp
+*.pem
+*.ppk
+*.zip
+*.exe
+*.pdf
+*.txt
+*.ini
+*.dat
+*.regtrans-ms
+*.sav
+*.sys
+*.bin
+*.bak
+*.DS_Store
+
+# Ignore folders
+node_modules/
+
+build/
+__pycache__/
+.vscode/
+
+
