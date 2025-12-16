@@ -12,7 +12,7 @@ Scenario
     Exporting the Report Finally
         It writes a filtered CSV (report.csv) containing only the records with errors.
 
-PG Admin query that returns all the logs avoiding test companies:
+PG Admin query that returns all the logs skipping test companies:
     *******
     SELECT
         user_action_logs.spot_id,
